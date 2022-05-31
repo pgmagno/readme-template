@@ -3,15 +3,15 @@
 ## [Project Title](https://github.com/pgmagno) <a name="en"></a>
 
 ### Description
-Some description
+> *Some description*
 
 ### Scope
-The scope of the project
+> *The scope of the project*
 
 ### Features
-* feature 1
-* feature 2
-* feature 3
+> * *feature 1*
+> * *feature 2*
+> * *feature 3*
 
 ### Technologies:
 | Name | Description of Usage |
@@ -26,15 +26,16 @@ The scope of the project
 ## [Título do Projeto](https://github.com/pgmagno) <a name="ptbr"></a>
 
 ### Descrição
-Some description
+> *Some description*
 
 ### Escopo
-The scope of the project
+> *The scope of the project*
+
 
 ### Características & recursos
-* recurso 1
-* recurso 2
-* recurso 3
+> * *recurso 1*
+> * *recurso 2*
+> * *recurso 3*
 
 ### Technologies:
 | Nome | Descrição de Uso |
@@ -50,9 +51,9 @@ The scope of the project
 
 ## Tables
 
-| 1 | 2 |
+| 1   | 2   |
 | :-: | :-: |
-| 3 | 4 |
+| 3   | 4   |
 
 <table>
   <th>1</th>
