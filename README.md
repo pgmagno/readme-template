@@ -94,10 +94,6 @@ Block
 Block
 ```
 
-#### #2 - Create as many tests as the group deems necessary to assert the correctness and precision of the solutions developed. 
-
-### Technologies used:
-
 [Back to top](#back)
 
 ---
