@@ -1,5 +1,6 @@
 # [<img width="64" alt="Flag of Brazil" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/64px-Flag_of_Brazil.svg.png">](#ptbr) [<img width="64" alt="Flag of the United States" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_the_United_States_%283-2%29.svg/64px-Flag_of_the_United_States_%283-2%29.svg.png">](#en) <a name="back"></a>
 
+## <a name="back"></a> [<img width="32" alt="Flag of Brazil" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/32px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png">](#ptbr) [<img width="32" alt="Flag of the United States" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_the_United_States_%283-2%29.svg/32px-Flag_of_the_United_States_%283-2%29.svg.png">](#en)
 
 ## [Project Title](https://github.com/pgmagno) <a name="en"></a>
 
